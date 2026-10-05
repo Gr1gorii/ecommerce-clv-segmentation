@@ -1,0 +1,47 @@
+{
+  "source": "UCI Online Retail II, Daqing Chen, 2012",
+  "url": "https://archive.ics.uci.edu/dataset/502/online+retail+ii",
+  "license": "CC BY 4.0",
+  "sha256": "bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980",
+  "start_date": "2009-12-01",
+  "end_date": "2011-12-09",
+  "cutoff": "2011-06-09",
+  "holdout_days": 183,
+  "country": "United Kingdom",
+  "currency": "GBP",
+  "raw_rows": 1067371,
+  "clean_rows": 699608,
+  "purchase_days": 30014,
+  "customers": 5334,
+  "calibration_customers": 4535,
+  "new_holdout_customers": 799,
+  "new_holdout_revenue": 641933.72,
+  "observed_revenue": 14288758.75,
+  "value_threshold": 1199.712757794346,
+  "forecast_months": 12,
+  "days_per_month": 30,
+  "assumptions": {
+    "margin": 0.35,
+    "returns": 0.05,
+    "reserve": 0.5,
+    "service_cost": 2.0,
+    "annual_discount": 0.1
+  },
+  "final_parameters": {
+    "bg_nbd": {
+      "r": 0.6698787313677605,
+      "alpha": 63.67686757875794,
+      "a": 0.07755347868515097,
+      "b": 1.2842112814247926
+    },
+    "gamma_gamma": {
+      "p": 2.196400859292227,
+      "q": 3.8439574607690066,
+      "v": 487.3212017876451
+    }
+  },
+  "cac_bias_scenario": {
+    "bias_low": -0.21138290173455065,
+    "bias_high": 0.3380882645946871
+  }
+}

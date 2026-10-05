@@ -1,0 +1,8 @@
+step,removed,remaining
+Raw rows,0,1067371
+Exact duplicates,34335,1033036
+Missing Customer ID,235151,797885
+Outside UK,81770,716115
+Cancellations and returns,15681,700434
+Zero or negative price,46,700388
+Non-merchandise lines,780,699608
