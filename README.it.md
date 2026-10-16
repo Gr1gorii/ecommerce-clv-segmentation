@@ -2,6 +2,8 @@
 
 [English](README.md) | [Italiano](README.it.md)
 
+App online: [CLV and customer budget](https://gr1gorii-ecommerce-clv.streamlit.app/)
+
 ## Una pagina per il responsabile
 
 **Problema.** Un unico limite di spesa per acquisizione e retention ignora le differenze tra clienti. Ho stimato il valore futuro dei clienti e assegnato un'azione a ogni segmento.

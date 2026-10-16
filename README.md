@@ -2,6 +2,8 @@
 
 [English](README.md) | [Italiano](README.it.md)
 
+Live app: [CLV and customer budget](https://gr1gorii-ecommerce-clv.streamlit.app/)
+
 ## One-page brief for a manager
 
 **Problem.** A single acquisition or retention spending limit ignores differences between customers. I estimated future customer value and assigned an action to each segment.
